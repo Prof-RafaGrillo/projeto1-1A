@@ -30,4 +30,6 @@ main{
 article{
     display: flex;
     background-color: pink;
+    align-items: center;
+    padding: 24px;
 }
